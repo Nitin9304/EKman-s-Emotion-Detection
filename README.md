@@ -1,4 +1,4 @@
-**Important:** Emotion Analysis Using Ekman's Basic Emotions
+# Emotion Analysis Using Ekman's Basic Emotions
 ![alt_image](https://github.com/Nitin9304/EKman-s-Emotion-Detection/blob/d46e28232b9d15b6f7b85581abf107688c85db7b/download%20(2).png)
 
 The emotion analysis based on Ekman's Basic Emotion Model demonstrates that Joy is the predominant emotional response among IPL fans, followed by Sadness and Anger. These findings indicate that YouTube comments capture a broad spectrum of fan emotions influenced by team performance, match outcomes, and player actions. Incorporating emotion analysis alongside sentiment analysis provides a more comprehensive understanding of audience behavior and enhances the effectiveness of social media analytics in sports.
