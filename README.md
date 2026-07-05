@@ -1,6 +1,6 @@
 # Emotion Analysis Using Ekman's Basic Emotions
 
-![alt_image](https://github.com/Nitin9304/EKman-s-Emotion-Detection/blob/686a8429f29d1674bc92b4a7da9ea01d1b6aa50a/images.jpg).
+![alt_image](https://github.com/Nitin9304/EKman-s-Emotion-Detection/blob/686a8429f29d1674bc92b4a7da9ea01d1b6aa50a/images.jpg)
 
 ![alt_image](https://github.com/Nitin9304/EKman-s-Emotion-Detection/blob/d46e28232b9d15b6f7b85581abf107688c85db7b/download%20(2).png)
 
